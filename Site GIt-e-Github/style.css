@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: orange;
+}
+
+main {
+    box-sizing: 500px;
+    box-shadow:1px 2px 1px;
+    background-color: white;
+}
