@@ -3,16 +3,25 @@
 }
 
 body {
-    background-color: orange;
+    background-color: rgba(116, 115, 172, 0.452);
 }
 
 main {
     box-sizing: 500px;
-    box-shadow:1px 2px 1px;
+    box-shadow:3px 3px 5px;
     background-color: white;
 }
 
-img.lado {
+article {
+    font-size: larger;
+}
+
+img.esquerdo{
     width: 100px;
-    
+    float: left;
+}
+
+img.direito {
+    width: 100px;
+    float: right;
 }
