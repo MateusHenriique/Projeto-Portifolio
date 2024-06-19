@@ -16,11 +16,6 @@ article {
     font-size: larger;
 }
 
-img.esquerdo{
-    width: 100px;
-    float: left;
-}
-
 img.direito {
     width: 100px;
     float: right;
