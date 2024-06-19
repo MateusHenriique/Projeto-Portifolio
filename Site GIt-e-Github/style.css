@@ -4,19 +4,21 @@
 
 body {
     background-color: rgba(116, 115, 172, 0.452);
+    font-size: larger;
 }
 
 main {
-    box-sizing: 500px;
-    box-shadow:3px 3px 5px;
+    width: 800px;
+    margin: auto;
+    box-shadow:3px 3px 5px rgba(0, 0, 0, 0.541);
     background-color: white;
 }
 
-article {
-    font-size: larger;
+img.foto_perfil {
+    width: 150px;
 }
 
 img.direito {
     width: 100px;
-    float: right;
+    float: left;
 }
