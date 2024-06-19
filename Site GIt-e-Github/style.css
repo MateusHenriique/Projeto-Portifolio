@@ -14,6 +14,11 @@ main {
     background-color: white;
 }
 
+h1.pagina_git {
+    float: right;
+    width:450px;
+}
+
 img.foto_perfil {
     width: 150px;
 }
@@ -21,4 +26,8 @@ img.foto_perfil {
 img.direito {
     width: 100px;
     float: left;
+}
+
+img.pagina_git {
+    width: 300px;
 }
