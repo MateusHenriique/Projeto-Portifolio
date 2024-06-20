@@ -3,10 +3,14 @@
 }
 
 body {
-    background-color: rgba(116, 115, 172, 0.452);
     font-size: larger;
-}
+    background-color: rgba(116, 115, 172, 0.452);
+    background-image: url(imagens/backgrownd_image.jpg);
+    background-position: center ;
+    background-size: 800px;
+    m
 
+}
 main {
     width: 800px;
     margin: auto;
@@ -17,6 +21,10 @@ main {
 h1.pagina_git {
     float: right;
     width:450px;
+}
+
+img.botao {
+    width: 30px;
 }
 
 img.foto_perfil {
@@ -31,3 +39,4 @@ img.direito {
 img.pagina_git {
     width: 300px;
 }
+
