@@ -7,8 +7,13 @@ body {
     background-color: rgba(116, 115, 172, 0.452);
     background-image: url(imagens/backgrownd_image.jpg);
     background-position: center ;
-    background-size: 800px;
+    background-size: 2500px;
+    height: 1000px;
 
+}
+body:hover {
+    background-position: bottom center;
+    transition: 30s;
 }
 
 main {
