@@ -4,7 +4,7 @@
 
 body {
     font-size: larger;
-    background-color: rgba(116, 115, 172, 0.452);
+    background-color: rgba(0, 0, 0, 0.767);
     background-image: url(imagens/backgrownd_image.jpg);
     background-position: center ;
     background-size: 2500px;
@@ -19,8 +19,8 @@ body:hover {
 main {
     width: 800px;
     margin: auto;
-    box-shadow:3px 3px 5px rgba(0, 0, 0, 0.541);
-    background-color: white;
+    box-shadow:5px 5px 8px rgb(145, 136, 136);
+    background-color: rgba(255, 255, 255, 0.808);
 }
 
 h1.pagina_git {
