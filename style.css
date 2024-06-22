@@ -23,6 +23,10 @@ main {
     background-color: rgba(255, 255, 255, 0.808);
 }
 
+h1.nome {
+    float: left;
+}
+
 h1.pagina_git {
     float: right;
     width:450px;
