@@ -9,23 +9,19 @@ body {
     background-position: center ;
     background-size: 2500px;
     height: 1000px;
+    transition: 40s;
 
 }
 body:hover {
     background-position: bottom center;
-    transition: 30s;
 }
 
 main {
     width: 800px;
+    height: auto;
     margin: auto;
     box-shadow:5px 5px 8px rgb(145, 136, 136);
     background-color: rgba(255, 255, 255, 0.808);
-}
-
-h1.pagina_git {
-    float: right;
-    width:450px;
 }
 
 img.botao {
@@ -36,12 +32,11 @@ img.foto_perfil {
     width: 150px;
 }
 
-img.direito {
-    width: 100px;
-    float: left;
+img.tecnologias {
+    width: 70px;
+    transition: 0.2s;
 }
 
-img.pagina_git {
-    width: 300px;
+img.tecnologias:hover {
+    width: 90px;
 }
-
