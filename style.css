@@ -16,12 +16,19 @@ body:hover {
     background-position: bottom center;
 }
 
+div.button_contact {
+    float: right;
+}
+
 main {
     width: 800px;
     height: auto;
     margin: auto;
     box-shadow:5px 5px 8px rgb(145, 136, 136);
     background-color: rgba(255, 255, 255, 0.808);
+}
+
+h1.titulo {
 }
 
 img.botao {
