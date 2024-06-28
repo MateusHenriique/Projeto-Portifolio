@@ -3,6 +3,7 @@
 }
 
 body {
+    
     font-size: larger;
     background-color: rgba(0, 0, 0, 0.767);
     background-image: url(imagens/backgrownd_image.jpg);
@@ -14,26 +15,51 @@ body {
 }
 
 body:hover {
+    
     background-position: bottom center;
 }
 
 main {
+
     width: 800px;
     height: auto;
     margin: auto;
-    box-shadow:5px 5px 8px rgb(145, 136, 136);
+    box-shadow:5px 5px 8px;
     background-color: rgba(255, 255, 255, 0.808);
 }
 
 h1, h2, p {
+
     text-align: center;
 }
 
 img.logo {
+
     width: 70px;
     transition: 0.2s;
 }
 
 img.logo:hover {
+
     width: 80px;
 }
+
+button.contacts {
+    
+    position: fixed;
+    bottom: 12px;
+    width: 70px;
+    height: 70px;
+    right: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px;
+    background-color: rgba(255, 255, 255, 0.808);
+    cursor: pointer;
+
+}
+
+img.contacts {
+
+    width: 50px;
+}
+
