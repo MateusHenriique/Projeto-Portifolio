@@ -32,9 +32,8 @@ h1, h2, p {
 img.logo {
     width: 70px;
     transition: 0.2s;
-    align-items: center;
 }
 
 img.logo:hover {
-    width: 90px;
+    width: 80px;
 }
