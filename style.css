@@ -12,12 +12,9 @@ body {
     transition: 40s;
 
 }
+
 body:hover {
     background-position: bottom center;
-}
-
-div.button_contact {
-    float: right;
 }
 
 main {
@@ -28,19 +25,16 @@ main {
     background-color: rgba(255, 255, 255, 0.808);
 }
 
-img.botao {
-    width: 30px;
+h1, h2, p {
+    text-align: center;
 }
 
-img.foto_perfil {
-    width: 150px;
-}
-
-img.tecnologias {
+img.logo {
     width: 70px;
     transition: 0.2s;
+    align-items: center;
 }
 
-img.tecnologias:hover {
+img.logo:hover {
     width: 90px;
 }
