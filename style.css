@@ -33,33 +33,45 @@ h1, h2, p {
     text-align: center;
 }
 
-img.logo {
+img.icon {
 
     width: 70px;
     transition: 0.2s;
 }
 
-img.logo:hover {
+img.icon:hover {
 
     width: 80px;
+}
+
+img.projects {
+    width: 500px;
 }
 
 button.contacts {
     
     position: fixed;
     bottom: 12px;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
     right: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px;
     background-color: rgba(255, 255, 255, 0.808);
     cursor: pointer;
+    transition: all  0.2s;
+
+}
+
+button.contacts:hover {
+
+    width: 65px;
+    height: 65px;
 
 }
 
 img.contacts {
 
-    width: 50px;
-}
+    width: 40px;
 
+}
