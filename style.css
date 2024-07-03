@@ -33,6 +33,30 @@ h1, h2, p {
     text-align: center;
 }
 
+div.technologies {
+    margin: auto;
+    width: 750px;
+    background-color:rgba(0, 0, 0, 0.13);
+    border-radius: 10px
+}
+
+img.line {
+
+    width: 130px;
+
+}
+
+img.social-media {
+    width: 40px;
+    transition: 0.2s;
+}
+
+img.social-media:hover {
+
+    width: 45px;
+
+}
+
 img.icon {
 
     width: 70px;
