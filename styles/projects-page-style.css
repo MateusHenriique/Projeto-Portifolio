@@ -1,0 +1,49 @@
+* {
+    font-family: cursive;
+    text-align: center;
+}
+
+body {
+    
+    font-size: larger;
+    background-color: rgba(0, 0, 0, 0.767);
+    background-image: url(../imagens/backgrownd-image/backgrownd_image.jpg);
+    background-position: center ;
+    background-size: 2500px;
+    height: 1000px;
+    transition: 40s;
+}
+
+body:hover {
+    
+    background-position: bottom center;
+}
+
+main {
+
+    width: 800px;
+    height: auto;
+    margin: auto;
+    box-shadow:5px 5px 8px;
+    background-color: rgba(255, 255, 255, 0.808);
+}
+
+
+div.project-1 {
+
+    background-color: rgba(0, 0, 0, 0.13);
+    width: 750px;
+    margin: auto;
+    height: 600px;
+
+}
+
+div.project-2 {
+
+    background-color: rgba(0, 0, 0, 0.13);
+    width: 750px;
+    margin: auto;
+    height: 600px;
+
+}
+

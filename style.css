@@ -1,12 +1,13 @@
 * {
     font-family: cursive;
+    text-align: center;
 }
 
 body {
     
     font-size: larger;
     background-color: rgba(0, 0, 0, 0.767);
-    background-image: url(imagens/backgrownd_image.jpg);
+    background-image: url(imagens/backgrownd-image/backgrownd_image.jpg);
     background-position: center ;
     background-size: 2500px;
     height: 1000px;
@@ -26,11 +27,7 @@ main {
     margin: auto;
     box-shadow:5px 5px 8px;
     background-color: rgba(255, 255, 255, 0.808);
-}
 
-h1, h2, p {
-
-    text-align: center;
 }
 
 div.technologies {
@@ -61,6 +58,7 @@ img.icon {
 
     width: 70px;
     transition: 0.2s;
+    cursor: pointer;
 }
 
 img.icon:hover {
