@@ -70,39 +70,8 @@ img.icon:hover {
     width: 80px;
 }
 
-img.projects {
-
-    width: 500px;
-}
-
 img.contacts {
 
     width: 40px;
 
-}
-
-div.projects {
-
-    margin: auto;
-    width: 750px;
-    background-color:rgba(0, 0, 0, 0.13);
-    border-radius: 10px
-
-}
-
-button.projects {
-
-    background-color: rgba(0, 0, 0, 0.397);
-    border-radius: 10px;
-    height: 30px;
-    width: 720px;
-    cursor: pointer;
-    transition: 0.2s;
-
-}
-
-button.projects:hover {
-
-    height: 25px;
-    width: 710px;
 }
